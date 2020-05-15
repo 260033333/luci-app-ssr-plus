@@ -3,7 +3,7 @@
 适用于openwrt/lede</br>
 使用方法：</br>
 1、cd openwrt/package</br>
-2、git clone https://github.com/maxlicheng/luci-app-ssr-plus.git</br>
+2、git clone https://github.com/laokai2019/luci-app-ssr-plus.git</br>
 3、回到openwrt目录</br>
 4、./scripts/feeds update -a && ./scripts/feeds install -a</br>
 5、make menuconfig</br>
